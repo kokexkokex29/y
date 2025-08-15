@@ -1,0 +1,33 @@
+2025-08-15 19:07:22,977 - database - INFO - Database initialized successfully
+2025-08-15 19:09:19,790 - database - INFO - Database initialized successfully
+2025-08-15 19:09:19,792 - discord.client - INFO - logging in using static token
+2025-08-15 19:09:19,793 - main - INFO - Discord bot started in background
+2025-08-15 19:09:19,794 - keep_alive - INFO - Keep-alive system started
+2025-08-15 19:09:19,794 - main - INFO - Keep-alive system started
+2025-08-15 19:09:20,181 - bot - INFO - Bot setup hook called
+2025-08-15 19:09:20,623 - bot - INFO - Commands synced
+2025-08-15 19:09:20,856 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 91db2090e1b32f9e2f80bb75a0730a5f).
+2025-08-15 19:09:22,860 - bot - INFO - RHL ASSISTANT#0956 has connected to Discord!
+2025-08-15 19:09:22,860 - bot - INFO - Bot is in 1 guilds
+2025-08-15 19:14:19,799 - keep_alive - INFO - Keep-alive ping successful at 2025-08-15 19:14:19.799218
+2025-08-15 19:18:52,488 - database - INFO - Database initialized successfully
+2025-08-15 19:18:52,490 - discord.client - INFO - logging in using static token
+2025-08-15 19:18:52,491 - main - INFO - Discord bot started in background
+2025-08-15 19:18:52,492 - keep_alive - INFO - Keep-alive system started
+2025-08-15 19:18:52,492 - main - INFO - Keep-alive system started
+2025-08-15 19:18:52,902 - bot - INFO - Bot setup hook called
+2025-08-15 19:18:53,262 - bot - INFO - Commands synced
+2025-08-15 19:18:53,506 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 445bf0e6c48a00c2628bd33f6a4153eb).
+2025-08-15 19:18:55,510 - bot - INFO - RHL ASSISTANT#0956 has connected to Discord!
+2025-08-15 19:18:55,510 - bot - INFO - Bot is in 1 guilds
+2025-08-15 19:18:59,265 - database - INFO - Database initialized successfully
+2025-08-15 19:18:59,267 - discord.client - INFO - logging in using static token
+2025-08-15 19:18:59,268 - main - INFO - Discord bot started in background
+2025-08-15 19:18:59,270 - keep_alive - INFO - Keep-alive system started
+2025-08-15 19:18:59,271 - main - INFO - Keep-alive system started
+2025-08-15 19:18:59,727 - bot - INFO - Bot setup hook called
+2025-08-15 19:19:53,314 - bot - INFO - Commands synced
+2025-08-15 19:19:53,609 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 028e8dd9b42d9b56e845206ad5d30f63).
+2025-08-15 19:19:55,626 - bot - INFO - RHL ASSISTANT#0956 has connected to Discord!
+2025-08-15 19:19:55,627 - bot - INFO - Bot is in 1 guilds
+2025-08-15 19:23:59,273 - keep_alive - INFO - Keep-alive ping successful at 2025-08-15 19:23:59.273886
